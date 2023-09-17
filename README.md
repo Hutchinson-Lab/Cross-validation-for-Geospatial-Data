@@ -1,9 +1,9 @@
 # Cross-validation-for-Geospatial-Data
-This repository provides datasets and code for the paper _["Cross-validation for Geospatial Data: A Framework for Estimating Generalization Performance in Geostatistical Problems".](https://openreview.net/forum?id=VgJhYu7FmQ)_
+This repository hosts datasets and code for the paper _["Cross-validation for Geospatial Data: A Framework for Estimating Generalization Performance in Geostatistical Problems".](https://openreview.net/forum?id=VgJhYu7FmQ)_
 
 ## Datasets
 We provided six simulation datasets and 15 real datasets.
-The following abbreviations are used as `[dataset name]` in command line.
+The following abbreviations serve as `[dataset name]` in a command line.
 * Simulation: sim_sd, sim_si, sim_sdcs, sim_sics, sim_sirs, sim_sipcs
 * HEWA1800: hewa1800_sd, hewa1800_si, hewa1800_sdcs, hewa1800_sics
 * HEWA1000: hewa1000_sd, hewa1000_si, hewa1000_sdcs, hewa1000_sics
