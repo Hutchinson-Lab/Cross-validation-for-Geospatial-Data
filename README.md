@@ -15,7 +15,7 @@ The following abbreviations serve as `[dataset name]` in a command line.
 ## Environment Installation
 To run the code, install the dependencies in [`requirements`](./requirements.txt).
 ```
-python install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Basic usage
