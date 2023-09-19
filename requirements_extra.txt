@@ -1,0 +1,11 @@
+### Prerequisites for `bcv.r` script
+sp==1.4-6
+raster==3.5-15
+blockCV==2.1.4
+
+### Prerequisites for `cramer.r` script
+cramer==0.9-3
+
+### Prerequisites for `gen_sim.jl` script
+GeoStats==0.25.3
+CSV==0.8.5

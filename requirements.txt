@@ -1,20 +1,6 @@
-### Prerequisites for Python code
 pandas
 scipy
 scikit-learn
-scikit-gstat == 0.6.9
-densratio == 0.2.2
+scikit-gstat==0.6.9
+densratio==0.2.2
 argparse
-
-
-
-# The following packages are required if users want to run any optional scripts.
-### Prerequisites for R code
-sp
-raster
-blockCV == 2.1.4
-cramer == 0.9-3
-
-### Prerequisites for Julia code
-GeoStats = 0.25.3
-
